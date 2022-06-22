@@ -1,5 +1,5 @@
 # LabLib
-Library Jupyter Notebook for Laboratory use 
+Library Jupyter Notebook for Laboratory uses 
 
 The main file is LAB_LIB_AP-SP.py
 
